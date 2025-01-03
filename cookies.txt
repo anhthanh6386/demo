@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+goicuocviettel.xyz	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_5f6c6051cd6c4c4497c53c6903b962a4	%20
+goicuocviettel.xyz	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_sec_5f6c6051cd6c4c4497c53c6903b962a4	%20
+goicuocviettel.xyz	TRUE	/wp-admin	FALSE	1999999999	wordpress_5f6c6051cd6c4c4497c53c6903b962a4	%20
+goicuocviettel.xyz	TRUE	/wp-admin	FALSE	1999999999	wordpress_sec_5f6c6051cd6c4c4497c53c6903b962a4	%20
+goicuocviettel.xyz	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+goicuocviettel.xyz	TRUE	/	FALSE	1999999999	wordpress_logged_in_5f6c6051cd6c4c4497c53c6903b962a4	%20
+goicuocviettel.xyz	TRUE	/	FALSE	1999999999	wp-settings-0	%20
+goicuocviettel.xyz	TRUE	/	FALSE	1999999999	wp-settings-time-0	%20
+goicuocviettel.xyz	TRUE	/	FALSE	1999999999	wordpress_5f6c6051cd6c4c4497c53c6903b962a4	%20
+goicuocviettel.xyz	TRUE	/	FALSE	1999999999	wordpress_sec_5f6c6051cd6c4c4497c53c6903b962a4	%20
+goicuocviettel.xyz	TRUE	/	FALSE	1999999999	wordpressuser_5f6c6051cd6c4c4497c53c6903b962a4	%20
+goicuocviettel.xyz	TRUE	/	FALSE	1999999999	wordpresspass_5f6c6051cd6c4c4497c53c6903b962a4	%20
+goicuocviettel.xyz	TRUE	/	FALSE	1999999999	wp-postpass_5f6c6051cd6c4c4497c53c6903b962a4	%20
+
